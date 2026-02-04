@@ -1,0 +1,18 @@
+{
+  "total_size_bytes": 48309,
+  "total_size_mb": 0.04607105255126953,
+  "limit_mb": 10,
+  "under_limit": true,
+  "percentage_used": 0.46071052551269526,
+  "components": {
+    "Model Weights": 32,
+    "Character Mapping": 0,
+    "Dictionary": 835,
+    "Preprocessor": 5384,
+    "Segmentor": 8528,
+    "Recognizer": 8514,
+    "Post-processor": 10439,
+    "Inference Script": 8808,
+    "Training Script": 5769
+  }
+}
